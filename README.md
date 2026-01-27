@@ -26,6 +26,7 @@ I believe in a future where the world is Decentralized yet extremely connected, 
 | Metric | Value |
 | --- | --- |
 | Total bugs found | 46 |
+| Criticals found | 2 |
 | Highs found | 3 |
 | Mediums found | 14 |
 | Lows found | 15 |
