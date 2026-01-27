@@ -2,7 +2,6 @@
   <img src="./logo.png" width="120" alt="Lodelux logo" />
   <h1>Lodelux - Audit Portfolio</h1>
   <p><strong>Web3 Security Researcher Specialized in EVM projects. </strong></p>
-  <p><strong>  DEX / Money markets  /  Vaults </strong></p>
 </div>
 
 
