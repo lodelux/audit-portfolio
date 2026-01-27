@@ -22,12 +22,12 @@ I believe in a future where the world is Decentralized yet extremely connected, 
 | Top-10 placements | TBD |
 
 ## Private engagements highlights
+
 | Metric | Value |
 | --- | --- |
-Total bugs found | TBD |
+| Total bugs found | TBD |
 | Highs found | TBD |
 | Mediums found | TBD |
-
 
 
 ## Results At A Glance
@@ -36,16 +36,16 @@ Total bugs found | TBD |
 
 
 | Date | Project | Type | NSLOC | Report |
-| --- | --- | --- | --- |
-| YYYY-MM | Project Name | Type |  NSLOC | `private/YYYY-MM-project/report.pdf` |
+| --- | --- | --- | --- | --- |
+| 2025-12 | Athena DeFi | Private audit | TBD | `private/2025-12-athena-defi/report.pdf` |
 
 ### Public Contests
 
 Short summaries and links live in `public/`. Add a row for each contest.
 
-| Date | Contest | Platform |  Result | Findings | Links |
-| --- | --- | --- | --- | --- | --- | --- |
-| YYYY-MM | Project Name | Code4rena / Sherlock / Immunefi  | Rank / Prize | #H #M #L | `public/YYYY-MM-project/summary.md` |
+| Date | Contest | Platform | Result | Findings | Links |
+| --- | --- | --- | --- | --- | --- |
+| YYYY-MM | Project Name | Code4rena / Sherlock / Immunefi | Rank / Prize | #H #M #L | `public/YYYY-MM-project/summary.md` |
 
 
 ## Notes
