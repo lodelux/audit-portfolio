@@ -25,9 +25,9 @@ I believe in a future where the world is Decentralized yet extremely connected, 
 
 | Metric | Value |
 | --- | --- |
-| Total bugs found | TBD |
-| Highs found | TBD |
-| Mediums found | TBD |
+| Total bugs found | 46 |
+| Highs found | 3 |
+| Mediums found | 14 |
 
 
 ## Results At A Glance
@@ -37,7 +37,7 @@ I believe in a future where the world is Decentralized yet extremely connected, 
 
 | Date | Project | Type | NSLOC | Report |
 | --- | --- | --- | --- | --- |
-| 2025-12 | Athena DeFi | Private audit | TBD | `private/2025-12-athena-defi/report.pdf` |
+| 2025-12 | Athena DeFi | Private audit | 3390 | `private/2025-12-athena-defi/report.pdf` |
 
 ### Public Contests
 
