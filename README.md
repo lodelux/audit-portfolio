@@ -36,25 +36,25 @@ I believe in a future where the world is Decentralized yet extremely connected, 
 
 Short summaries and links live in `public/`. Add a row for each contest.
 
-| Date | Duration | Contest | Platform | Result | Findings | Links |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-17 | 7d | Alignerz | DualGuard | #30 / 229 $ | 3M 8H 2L | [public/2025-11-alignerz](public/2025-11-alignerz) |
-| 2025-10-07 | 11d | 3Jane | Sherlock | 🏆 #8 / 1660.78 $ |  4M | [public/2025-10-3jane](public/2025-10-3jane) |
-| 2025-08-30 | 27d | GTE Perps | Code4rena | 🏆 #5 / 5142 $ | 3H 3M (1M solo) | [public/2025-08-gte-perps](public/2025-08-gte-perps) |
-| 2025-07-30 | 8d | GTE CLOB | Code4rena | #20 / 22 $ | 1H 2M | [public/2025-08-gte-clob](public/2025-08-gte-clob) |
-| 2025-07-19 | 10d | Mellow Flexible Vaults | Sherlock | 🏆 #6 / 2058.80 $ | 3H 2M  | [public/2025-07-mellow-flexible-vaults](public/2025-07-mellow-flexible-vaults) |
-| 2025-07-02 | 17d | Notional Exponent | Sherlock | #48 / 19.26 $ |  1M  | [public/2025-07-notional-exponent](public/2025-07-notional-exponent) |
-| 2023-09 | TBD | Delegate | Code4rena | #9 / 40.13 $ | 1L | [public/2023-09-delegate](public/2023-09-delegate) |
-| 2023-07 | TBD | Tokemak | Sherlock | #51 / 38.54 $ | 2H   | [public/2023-07-tokemak](public/2023-07-tokemak) |
+| Date | Duration | Contest | Platform | Result | Findings |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-17 | 7d | Alignerz | DualGuard | #30 / 229 $ | [3M 8H 2L](public/2025-11-alignerz) |
+| 2025-10-07 | 11d | 3Jane | Sherlock | 🏆 #8 / 1660.78 $ | [4M](public/2025-10-3jane) |
+| 2025-08-30 | 27d | GTE Perps | Code4rena | 🏆 #5 / 5142 $ | [3H 3M (1M solo)](public/2025-08-gte-perps) |
+| 2025-07-30 | 8d | GTE CLOB | Code4rena | #20 / 22 $ | [1H 2M](public/2025-08-gte-clob) |
+| 2025-07-19 | 10d | Mellow Flexible Vaults | Sherlock | 🏆 #6 / 2058.80 $ | [3H 2M](public/2025-07-mellow-flexible-vaults) |
+| 2025-07-02 | 17d | Notional Exponent | Sherlock | #48 / 19.26 $ | [1M](public/2025-07-notional-exponent) |
+| 2023-09 | TBD | Delegate | Code4rena | #9 / 40.13 $ | [1L](public/2023-09-delegate) |
+| 2023-07 | TBD | Tokemak | Sherlock | #51 / 38.54 $ | [2H](public/2023-07-tokemak) |
 
 
 
 ### Private Audits
 
 
-| Date | Project | Type | NSLOC | Report |
-| --- | --- | --- | --- | --- |
-| 2025-12 | Athena DeFi | Investment management | 3390 | [private/2025-12-athena-defi](private/2025-12-athena-defi) |
+| Date | Duration  | NSLOC | Project | Type  | Findings |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12 | 14d | 3390 | Athena DeFi | Investment management  | [2C 3H 14M 15L](private/2025-12-athena-defi) |
 
 
 
