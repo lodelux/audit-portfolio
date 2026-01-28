@@ -9,7 +9,7 @@
 
 I have a formal background in Computer Science, with a Degree in Comp. Sc. Engineering from a global top-100 University. I've first entered the crypto world back in 2017 when I  needed a way to get paid online and found Bitcoin. Later in 2020 I discovered the wonders of DeFi, where I started to be both a user and an  active contributor to many Open Source projects. Around 2023 I participated in a few contests for fun while I was still in Univesrity, and from June 2025 I've realized that web3 Sec is my calling so I went all-in,  doing this full time.
 
-I believe in a future where the world is Decentralized yet extremely connected, and I want to be part of the people who help shaping and securing this future.
+I believe in a future where the world is Decentralized yet extremely connected, and I want to be among  the people who help shaping and securing this future.
 
 ## Contests highlights
 
