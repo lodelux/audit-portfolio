@@ -15,10 +15,10 @@ I believe in a future where the world is Decentralized yet extremely connected, 
 
 | Metric | Value |
 | --- | --- |
-| Total bugs found | TBD |
-| Highs found | TBD (of which solos TBD) |
-| Mediums found | TBD (of which solos TBD) |
-| Top-10 placements | TBD |
+| Total bugs found | 8 |
+| Highs found | 5 (of which solos TBD) |
+| Mediums found | 3 (of which solos TBD) |
+| Top-10 placements | 3 |
 
 ## Private engagements highlights
 
@@ -31,7 +31,22 @@ I believe in a future where the world is Decentralized yet extremely connected, 
 | Lows found | 15 |
 
 
-## Results At A Glance
+### Public Contests
+
+Short summaries and links live in `public/`. Add a row for each contest.
+
+| Date | Contest | Platform | Result | Findings | Links |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11 | Alignerz | DualGuard | #30 / 229 USDC | 3M 8H 2L | `public/2025-11-alignerz/summary.md` |
+| 2025-10 | 3Jane | Sherlock | #8 / 1660.78 USDC |  4M | `public/2025-10-3jane/summary.md` |
+| 2025-08 | GTE Perps | Code4rena | #5 / 5142 USDC | 3H 3M (1M solo) | `public/2025-08-gte-perps/summary.md` |
+| 2025-07 | GTE CLOB | Code4rena | #20 / 22 USDC | 1H 2M | `public/2025-08-gte-clob/summary.md` |
+| 2025-07 | Mellow Flexible Vaults | Sherlock | #6 / 2058.80 USDC | 3H 2M  | `public/2025-07-mellow-flexible-vaults/summary.md` |
+| 2025-07 | Notional Exponent | Sherlock | #48 / 19.26 USDC |  1M  | `public/2025-07-notional-exponent/summary.md` |
+| 2023-09 | Delegate | Code4rena | #9 / 40.13 USDC | 1L | `public/2023-09-delegate/summary.md` |
+| 2023-07 | Tokemak | Sherlock | #51 / 38.54 USDC | 2H   | `public/2023-07-tokemak/summary.md` |
+
+
 
 ### Private Audits
 
@@ -40,13 +55,7 @@ I believe in a future where the world is Decentralized yet extremely connected, 
 | --- | --- | --- | --- | --- |
 | 2025-12 | Athena DeFi | Investment management | 3390 | `private/2025-12-athena-defi/report.pdf` |
 
-### Public Contests
 
-Short summaries and links live in `public/`. Add a row for each contest.
-
-| Date | Contest | Platform | Result | Findings | Links |
-| --- | --- | --- | --- | --- | --- |
-| YYYY-MM | Project Name | Code4rena / Sherlock / Immunefi | Rank / Prize | #H #M #L | `public/YYYY-MM-project/summary.md` |
 
 
 ## Notes
