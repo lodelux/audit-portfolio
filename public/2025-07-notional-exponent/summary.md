@@ -1,6 +1,7 @@
 # Notional Exponent (Sherlock)
 
-- Date: 2025-07
+- Date: 2025-07-02
+- Duration: 17 days
 - Result: Rank #48, 19.26 USDC
 
 ## Findings

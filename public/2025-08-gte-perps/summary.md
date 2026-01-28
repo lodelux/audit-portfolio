@@ -1,6 +1,7 @@
 # GTE Perps (Code4rena)
 
-- Date: 2025-08
+- Date: 2025-08-30
+- Duration: 27 days
 - Result: Rank #5, 5142 USDC
 
 ## Findings
@@ -17,5 +18,3 @@
 ## Links
 
 - Contest page: https://code4rena.com/audits/2025-08-gte-perps-and-launchpad
-
-

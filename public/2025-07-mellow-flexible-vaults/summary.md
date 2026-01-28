@@ -1,6 +1,7 @@
 # Mellow Flexible Vaults (Sherlock)
 
-- Date: 2025-07
+- Date: 2025-07-19
+- Duration: 10 days
 - Result: Rank #6, 2058.80 USDC
 
 ## Findings
