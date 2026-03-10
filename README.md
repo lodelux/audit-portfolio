@@ -38,7 +38,7 @@ Short summaries and links live in `public/`. Add a row for each contest.
 
 | Date | Duration | Contest | Platform | Result | Findings |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-02 | 3d | Rain | Sherlock | 🏆 #1 / 525 $ | [1H] (public/2026-03-02-Rain) |
+| 2026-03-02 | 3d | Rain | Sherlock | 🏆 #1 / 525 $ | [1H](public/2026-03-02-Rain) |
 | 2025-11-17 | 7d | Alignerz | DualGuard | #30 / 229 $ | [3M 8H 2L](public/2025-11-alignerz) |
 | 2025-10-07 | 11d | 3Jane | Sherlock | 🏆 #8 / 1660.78 $ | [4M](public/2025-10-3jane) |
 | 2025-08-30 | 27d | GTE Perps | Code4rena | 🏆 #5 / 5142 $ | [3H 3M (1M solo)](public/2025-08-gte-perps) |
